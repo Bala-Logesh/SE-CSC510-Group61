@@ -2,6 +2,8 @@
 
 This repository is created for the Software Engineering course CSC 510 of Fall 2023!
 
+- ### [Project 1 README](proj1/README.md) &#128279;
+
 ---
 
 ### Channels for communication
